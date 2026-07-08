@@ -1,0 +1,9 @@
+spring:
+  ai:
+    openai:
+      base-url: https://dashscope.aliyuncs.com/compatible-mode
+      api-key:
+      temperature: 0.1
+      chat:
+        options:
+          model: qwen3.5-flash
